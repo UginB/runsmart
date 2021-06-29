@@ -5,6 +5,7 @@
 
 
 * {
+    box-sizing:border-box;
     font-family: 'Museo Sans Cyrl', sans-serif;
 }
 
@@ -22,3 +23,4 @@
 @import 'blocks/consultation';
 @import 'blocks/forms';
 @import 'blocks/carousel';
+@import 'blocks/catalog';
